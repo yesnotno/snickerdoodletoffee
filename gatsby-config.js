@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Bacon Brittle`,
-    description: `Vermont Maple Smoked Bacon, Bacon Brittle`,
+    title: `Snickerdoodle Toffee`,
+    description: `Classic Cinnamon Sugar Taste, Snickerdoodle Toffee`,
     author: `@yesnotnode`,
-    siteUrl: `https://baconbrittle.com`,
+    siteUrl: `https://snickerdoodletoffee.com`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,

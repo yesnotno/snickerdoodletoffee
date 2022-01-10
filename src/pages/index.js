@@ -7,7 +7,7 @@ import Landing from "../components/landing/landing"
 const IndexPage = () => (
   <>
     <Layout>
-      <Seo title="Bacon Brittle: Home" />
+      <Seo title="Home" />
       <Landing />
     </Layout>
   </>
